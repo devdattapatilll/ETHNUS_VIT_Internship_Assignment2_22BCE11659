@@ -1,1 +1,1 @@
-# Ethnus_JavaScript_BootStrap
+# Ethnus_JavaScript
